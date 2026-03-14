@@ -21,7 +21,7 @@ Authensor provides action authorization, approval workflows, content safety scan
 | Document | Description |
 |----------|-------------|
 | [Claude Code](docs/integrations/claude-code.md) | Using Authensor with Claude Code |
-| [Framework Adapters](docs/integrations/framework-adapters.md) | LangChain, OpenAI Agents SDK, CrewAI adapters |
+| [Framework Adapters](docs/integrations/framework-adapters.md) | All 8 framework adapters and SDKs |
 
 ## Use Cases
 
@@ -55,8 +55,9 @@ Authensor provides action authorization, approval workflows, content safety scan
 | Document | Description |
 |----------|-------------|
 | [Ecosystem Overview](docs/product/ecosystem-overview.md) | Full Authensor product ecosystem |
-| [Aegis](docs/product/aegis.md) | Content safety scanner |
-| [Sentinel](docs/product/sentinel.md) | Real-time monitoring engine |
+| [MCP Gateway](docs/product/mcp-gateway.md) | Transparent MCP proxy with SEP authorization |
+| [Aegis](docs/product/aegis.md) | Content safety scanner (106 rules, 7 detectors) |
+| [Sentinel](docs/product/sentinel.md) | Real-time behavioral monitoring engine |
 | [Certification](docs/product/certification.md) | Agent safety certification program |
 
 ## For LLMs
